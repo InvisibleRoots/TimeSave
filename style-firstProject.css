@@ -1,0 +1,28 @@
+.container-flexbox {
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.two-items-flexbox {
+  justify-content: flex-start;
+}
+
+.firstProject {
+  margin-bottom: 0.8em;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu h4 {
+  margin-right: 40px;
+}
+/* .redBox {
+  border: 3px red solid;
+}
+
+.blueBox {
+  border: 3px blue solid;
+} */
